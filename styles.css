@@ -23,6 +23,7 @@ main {
   height: 100%;
 
   background: linear-gradient(0, #F2D5D5, #E1C1C2);
+
 }
 
 button {
@@ -53,7 +54,7 @@ button:focus {
   border-radius: 50px;
 }
 
-.social-nome p {
+.social-nome h4, h5, h6 {
   text-align: center;
 }
 
